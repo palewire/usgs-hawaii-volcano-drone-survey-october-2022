@@ -1,1 +1,3 @@
 Photography and a digital elevation model from an October 2022 USGS drone mission over the Kilauea volcano's Halema‘uma‘u pit crater. Released in November 2022 in response to two [public](https://www.muckrock.com/foi/united-states-of-america-10/usgs-drone-footage-of-halemaumau-and-kilauea-volcano-135146/#file-1048037) [records](https://www.muckrock.com/foi/united-states-of-america-10/dem-model-files-created-following-drone-flight-over-halemaumau-and-kilauea-volcano-135188/) requests.
+
+I converted the model file into an STL format ready for a 3D printer. It is available in `print.stl.zip`.
